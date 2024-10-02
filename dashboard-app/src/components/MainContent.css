@@ -1,0 +1,10 @@
+.main-content {
+    background-color: #f4f4f4;
+    padding: 20px;
+    flex-grow: 1;
+  }
+  
+  .main-content h2 {
+    margin-top: 0;
+  }
+  
